@@ -9,5 +9,5 @@
 ---
 ![](https://github-readme-stats.vercel.app/api?username=Big-ashes&theme=dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Big-ashes&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Big-ashes&show_icons=true&theme=tokyonight)
 
