@@ -1,9 +1,11 @@
+## Hi there😁
 ---
-- 👋 Hi, I’m @Big-ashes
+- 👋 I’m @Big-ashes
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+- 🪐 You can find me on my ![website](https://bigashes.com)
+---
 ![](https://github-readme-stats.vercel.app/api?username=Big-ashes&theme=dark)
 
